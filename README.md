@@ -16,27 +16,22 @@ Python (>=3.6)
 Jupyter Notebook
 
 # Steps in the Notebook
-Import Libraries: Import the necessary libraries for data manipulation, visualization, and machine learning.
-Load the Dataset: Load the dataset into a pandas DataFrame.
-
-Exploratory Data Analysis (EDA):
-
-Display the first few rows of the dataset
-Show summary statistics
-Check for missing values
-Visualize relationships between features using pair plots
-Data Preprocessing:
-
-Separate features and the target variable
-Define numerical and categorical features
-Create a preprocessing pipeline to handle scaling and encoding
-Train-Test Split: Split the dataset into training and testing sets.
-
-Model Training and Evaluation:
-
-Define different machine learning models
-Train and evaluate models using Mean Squared Error (MSE), Mean Absolute Error (MAE), and R-squared (R2)
-Perform cross-validation to assess the generalization ability of the models
+1) Import Libraries: Import the necessary libraries for data manipulation, visualization, and machine learning.
+2) Load the Dataset: Load the dataset into a pandas DataFrame.
+3) Exploratory Data Analysis:
+   - Display the first few rows of the dataset
+   - Show summary statistics
+   - Check for missing values
+   - Visualize relationships between features using pair plots
+4) Data Preprocessing:
+   - Separate features and the target variable
+   - Define numerical and categorical features
+   - Create a preprocessing pipeline to handle scaling and encoding
+   - Train-Test Split: Split the dataset into training and testing sets.
+5) Model Training and Evaluation:
+   - Define different machine learning models
+   - Train and evaluate models using Mean Squared Error (MSE), Mean Absolute Error (MAE), and R-squared (R2)
+   - Perform cross-validation to assess the generalization ability of the models
 
 # Setup
 You can run the notebook in Google Colab using the following link: 
