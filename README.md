@@ -1,4 +1,4 @@
-# How Much Do You Burn
+# How Much Do You Burn?
 # Overview
 This Jupyter notebook project predicts the number of calories burned based on various physical and physiological parameters using machine learning techniques in Python.
 
