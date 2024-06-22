@@ -8,14 +8,15 @@ Data exploration and visualization
 Data preprocessing steps
 Model training and evaluation
 Prediction using the trained model
-#Dataset
+
+# Dataset
 https://www.kaggle.com/datasets/fmendes/fmendesdat263xdemos
 #Requirements
 Python (>=3.6)
 Jupyter Notebook
-#Steps in the Notebook
-Import Libraries: Import the necessary libraries for data manipulation, visualization, and machine learning.
 
+# Steps in the Notebook
+Import Libraries: Import the necessary libraries for data manipulation, visualization, and machine learning.
 Load the Dataset: Load the dataset into a pandas DataFrame.
 
 Exploratory Data Analysis (EDA):
@@ -36,7 +37,8 @@ Model Training and Evaluation:
 Define different machine learning models
 Train and evaluate models using Mean Squared Error (MSE), Mean Absolute Error (MAE), and R-squared (R2)
 Perform cross-validation to assess the generalization ability of the models
-#Setup
+
+# Setup
 You can run the notebook in Google Colab using the following link: 
 https://colab.research.google.com/drive/1EnIlWxLdQgxscFRCx8UIK91iimarY1qC?usp=sharing
 
