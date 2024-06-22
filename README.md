@@ -11,9 +11,6 @@ Prediction using the trained model
 
 # Dataset
 https://www.kaggle.com/datasets/fmendes/fmendesdat263xdemos
-#Requirements
-Python (>=3.6)
-Jupyter Notebook
 
 # Steps in the Notebook
 1) Import Libraries: Import the necessary libraries for data manipulation, visualization, and machine learning.
@@ -37,5 +34,7 @@ Jupyter Notebook
 You can run the notebook in Google Colab using the following link: 
 https://colab.research.google.com/drive/1EnIlWxLdQgxscFRCx8UIK91iimarY1qC?usp=sharing
 
-
+# Requirements
+Python (>=3.6)
+Jupyter Notebook
 
